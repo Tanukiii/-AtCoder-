@@ -4,11 +4,6 @@
 
 
 
-I introduce the above models on
-[My blog](https://tanuki.blog) (written  Japanese), so please check it.
-
-Anyhow, lets's move on!
-
 [初心者問題　厳選１０問 Python](https://nbviewer.jupyter.org/github/Tanukiii/-AtCoder-/blob/master/初心者問題１０問/Begginer.ipynb)
 
 
